@@ -1,0 +1,5 @@
+<!-- http://wiki.ros.org/roslaunch/XML/node -->
+<launch>
+   <node name="distance_node" pkg="distance_transform" type="distance_transform_node" output="screen">
+    </node>
+</launch>
